@@ -22,6 +22,6 @@ Microsoft Power BI
 🧑‍💻 Author
 Prathmesh Shimpi
 
-📫 LinkedIn: www.linkedin.com/in/prathamesh-shimpi-583922247
+📫 LinkedIn: https://www.linkedin.com/in/prathmesh-shimpi-583922247/
 
 🌐 GitHub: https://github.com/Pratham269

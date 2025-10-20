@@ -1,4 +1,4 @@
-# Superstore_Dashboard
+# Global_Superstore_Dashboard
 Global Superstore Dashboard (Power BI)
 
 This project showcases an interactive Power BI dashboard built using the Global Superstore Sales Data (2021–2022). It involves data cleaning, analysis, and visualization to uncover actionable business insights.
